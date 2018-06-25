@@ -21,7 +21,7 @@ After you apply tags, you can retrieve all the resources in your subscription wi
 
 ## Guidance
 
-**Tag Names**: Use the following information when naming your Azure resource tags.
+### Tag Names: Use the following information when naming your Azure resource tags.
 
   - Follow [Azure naming rules and restrictions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions). It is difficult to change a name later. 
   - Names must meet the requirements of their specific resource type 
@@ -35,7 +35,7 @@ Company, Department (optional), Product Line or Service (optional), Environment
 <br />
 <br />
 
-  **Tags**: Use the following information when designing Azure resource tags: 
+  ## Tags: Use the following information when designing Azure resource tags: 
 
    - Each resource or resource group has a maximum of 15 tag name/value pairs. This limitation applies only to tags directly 
    applied to the resource group or resource. A resource group can contain many resources that each have 15 tag name/value 
