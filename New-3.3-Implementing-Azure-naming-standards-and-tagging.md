@@ -12,12 +12,14 @@ values that make the most sense for organizing your subscription. Tags should in
   - **Ownership Information**: whom should be contacted when needed
   - **Purpose Information**: environment, application, service
 
+
 **An example of a common tagging approach:** 
 
    | __Tag Name__ | __Key__ | __Example__ | __Comment__ |
    |------------------------------|----------------------------|----------------------------|----------------------------|
    | Bill To / Internal Chargeback ID   | billTo  | IT-Chargeback-1234   |  An internal I/O or billing code  | 
    
+
 After you apply tags, you can retrieve all the resources in your subscription with that tag name and value. Tags enable you to retrieve related resources from different resource groups. This approach is helpful when you need to organize resources for billing or management.
 
 <br />
