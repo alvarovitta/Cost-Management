@@ -4,7 +4,7 @@ When assessing your on-premise migration to Azure, not only should you consider 
 
 Microsoft has a tool that will help ease this task for you and its called Azure Migrate. Azure Migrate will help you kick-start your on-premise assessment but estimating the costs for running on-premise machines in Azure.
 
-What the assessment tool does is it calculates the post-migration compute and storage costs based on the recommendations done Azure Migrate for a machine, its disks, and the assessment properties. 
+What the assessment tool does is it calculates the post-migration compute and storage costs based on the recommendations assessed by Azure Migrate for a machine, its disks, and the assessment properties. 
 
    - **Compute cost:** Using the recommended Azure VM size, Azure Migrate uses the Billing API to calculate the monthly cost for the VM. The calculation takes the operating system, software assurance, reserved instances, VM uptime, location, and currency settings into account. It aggregates the cost across all machines, to calculate the total monthly compute cost.
 
@@ -13,7 +13,7 @@ What the assessment tool does is it calculates the post-migration compute and st
    - **Storage cost:** The monthly storage cost for a machine is calculated by aggregating the monthly cost of all disks attached to the machine. Azure Migrate calculates the total monthly storage costs by aggregating the storage costs of all machines. Currently, the calculation doesn't take offers specified in the assessment settings into account.
 Costs are displayed in the currency specified in the assessment settings.
 
-Once the assessment is completed, it will then illustrates it in the following view below a long with the details for each machine.:
+Once the assessment is completed, it will then illustrates it in the following view below a long with the details for each machine:
 
 ![assessment](https://github.com/alvarovitta/Cost-Management/blob/master/Images/assessment-vm-cost.png)
 
