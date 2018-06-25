@@ -21,7 +21,10 @@ Insert descriptive main body content
 <br />
 
 ## Preparation
-Add preparation details for this procedure (if there is a procedure)
+Add preparation details for this procedure (if there is a procedure)   
+Perform the following activities before you begin the procedure tasks:  
+- xyz
+- xyz
 <br />
 <br />
 
