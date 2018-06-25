@@ -10,24 +10,11 @@ values that make the most sense for organizing your subscription.
 
 After you apply tags, you can retrieve all the resources in your subscription with that tag name and value. Tags enable you to retrieve related resources from different resource groups. This approach is helpful when you need to organize resources for billing or management.
 
+**An example of a common tagging approach:** 
 
-<br />
-<br />
-
-The following table shows examples of common tags you can adopt to fit your organization's requirements. When applying and 
-enforcing tags, leverage the Resource Policies to automate this process. 
-
-
-   | __Tag Name__ | __Key__ |__Example__ |__Comment__ |
+   | __Tag Name__ | __Key__ | __Example__ | __Comment__ |
    |------------------------------|----------------------------|----------------------------|----------------------------|
-   | Bill To / Internal Chargeback ID   | billTo   | IT-Chargeback-1234   | An internal I/O or billing code   | 
-   | Operator or Directly Responsible Individual (DRI)    | managedBy | joe@contoso.com | Alias or email address | 
-   | Project Name  | project-name  | myproject | Name of the project or product line | 
-   | Project Version    | project-version |  3.4 | Version of the project or product line | 
-   | Environment   | environment |  Production, Staging, QA | Environmental identifier | 
-   | Tier    | tier |  Front End, Back End, Data | Tier or role/context identification | 
-   | Data Profile  | dataProfile |  Public, Confidential, Restricted, Internal  | Sensitivity of data stored in the resource | 
-
+   | Bill To / Internal Chargeback ID   | billTo  | IT-Chargeback-1234   |  An internal I/O or billing code  | 
 
 <br />
 <br />
@@ -44,11 +31,7 @@ enforcing tags, leverage the Resource Policies to automate this process.
   - Use the following recommended pattern for naming subscriptions:  
 Company, Department (optional), Product Line or Service (optional), Environment
       
- **An example of a common tagging approach:** 
-
-    | __Tag Name__ | __Key__ | __Example__ | __Comment__ |
-    |------------------------------|----------------------------|----------------------------|----------------------------|
-    | Bill To / Internal Chargeback ID   | billTo  | IT-Chargeback-1234   |  An internal I/O or billing code  | 
+ 
 <br />
 <br />
 
