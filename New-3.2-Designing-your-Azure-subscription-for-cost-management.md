@@ -4,6 +4,15 @@ Brief description of the intent of this section
 <br />
 
 Insert descriptive main body content
+<Table if needed>
+  
+|  Heading |  Heading  | Heading |
+| ---- | --- | --- |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
 <br />
 <br />
 
@@ -17,7 +26,7 @@ Add preparation details for this procedure (if there is a procedure)
 <br />
 <br />
 
-## Procedure: How to implement metering and billing
+## Procedure: How to design your subscription for cost management
 Add steps for this procedure (if there is a procedure)  
 1.  **Step 1 information**  
   Details  
