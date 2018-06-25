@@ -9,7 +9,8 @@ Insert descriptive main body content
 
 ## Guidance
 - Add guidance or advice in bullet point form
-
+<br />
+<br />
 
 ## Next steps
 [Defining your Cost Management Strategy](New-1.2-Defining-your-cost-management-strategy.md)
