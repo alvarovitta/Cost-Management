@@ -9,7 +9,8 @@ Define business level goals / requirements of cost management strategy
 1.1 Defining the cost management business requirements (Gerardo)  
   - cost allocation control  
   - chargeback to lobs  
-  - designing elements of cost management strategy (subscription)  
+  - designing elements of cost management strategy (subscription)   
+
 1.2 defining your cost management strategy  
   - cost center  
   - shared services model/ distributed model  
