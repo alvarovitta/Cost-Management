@@ -21,6 +21,7 @@ After you apply tags, you can retrieve all the resources in your subscription wi
 
 ## Guidance
 <br />
+
 ### Tag Names: Use the following information when naming your Azure resource tags.
 
   - Follow [Azure naming rules and restrictions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions). It is difficult to change a name later. 
