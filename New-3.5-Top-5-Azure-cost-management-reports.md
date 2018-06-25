@@ -1,41 +1,17 @@
 # Top 5 Azure Cost Management Reports
-Brief description of the intent of this section
-<br />
-<br />
 
-Insert descriptive main body content
-<Table if needed>
-  
-|  Heading |  Heading  | Heading |
-| ---- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+The following section are the top 4 cost management reports you can create through Azure Cost Management:
+
+  1. [Review Usage and Costs](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage): shows you usage and costs so that you can track trends, detect inefficiencies, and create alerts. 
+
+  2. [Forecast Spending](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-forecast-spending): helps you forecast future spending using historical usage and spending data.
+
+  3. [Manage Costs](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
 
 <br />
 <br />
 
-## Guidance
-- Add guidance or advice in bullet point form
-<br />
-<br />
 
-## Preparation
-Add preparation details for this procedure (if there is a procedure)   
-Perform the following activities before you begin the procedure tasks:  
-- xyz
-- xyz
-<br />
-<br />
-
-## Procedure: How to implement Azure cost management reports
-Add steps for this procedure (if there is a procedure)  
-1.  **Step 1 information**  
-  Details  
-2.   **Step 2 information**  
-  Details
-<br />
-<br />
 
 ## Next steps
 [Monitoring your Costs](New-3.6-Monitoring-your-costs.md)
