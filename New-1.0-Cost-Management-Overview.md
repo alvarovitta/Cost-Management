@@ -10,5 +10,5 @@
 <br />
 <br />
   
-# Next steps
+## Next steps
 [Defining your Cost Management Strategy](New-1.2-Defining-your-cost-management-strategy.md)
