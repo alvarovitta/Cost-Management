@@ -4,6 +4,15 @@ Brief description of the intent of this section
 <br />
 
 Insert descriptive main body content
+<Table if needed>
+  
+|  Heading |  Heading  | Heading |
+| ---- | --- | --- |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
 <br />
 <br />
 
@@ -17,7 +26,7 @@ Add preparation details for this procedure (if there is a procedure)
 <br />
 <br />
 
-## Procedure: How to implement showback and chargeback
+## Procedure: How to design your subscription for cost management
 Add steps for this procedure (if there is a procedure)  
 1.  **Step 1 information**  
   Details  
@@ -25,6 +34,7 @@ Add steps for this procedure (if there is a procedure)
   Details
 <br />
 <br />
+
 
 ## Next steps
 [Operationalizing Cost Management](https://github.com/alvarovitta/Cost-Management/blob/master/New-3.0-Operationalizing-Cost-Management.md)
