@@ -6,7 +6,11 @@ Use the procedure described in this section when applying Azure tags to your sub
 <br />
 
 Apply tags to Azure resources to logically organize them by categories. Each tag consists of a name and a value. Define names and 
-values that make the most sense for organizing your subscription. 
+values that make the most sense for organizing your subscription. Tags should include 3 types of information:
+
+  - **Billing Information**: cost center, billing ID etc.
+  - **Ownership Information**: whom should be contacted when needed
+  - **Purpose Information**: environment, application, service
 
 After you apply tags, you can retrieve all the resources in your subscription with that tag name and value. Tags enable you to retrieve related resources from different resource groups. This approach is helpful when you need to organize resources for billing or management.
 
