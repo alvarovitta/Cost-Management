@@ -1,26 +1,33 @@
 # Draft Cost Management TOC
-This is just a content development test for Cost Management  
-Determine the scope of this guide
-<br />
-<br />
 
-## About this Document
-<br />
-
-## 1.0 Performing a Resource Cost Analysis  
-  - Performing a Return on Investment analysis  - Is this necessary for the QS Guide?
-  - Performing a Total Cost of Ownership analysis  - Is this necessary for the QS Guide?
-  - Performing a resource usage analysis (determining your resource and cloud usage requirements?)
-  - Performing a cost optimization analysis (Forecasting and Budgeting) Is this necessary for the QS Guide?
-
-  
-## 2.0 Designing Azure Metering and Billing  
- - Designing Metering and Billing for Infrastructure as a Service (IaaS)   
- - Designing Metering and Billing for Platform as a Service (PaaS)  
+--------------------
+New Structure
+Define business level goals / requirements of cost management strategy
 
 
-## 3.0 Implementing Resource Cost Management
-  - Monitoring cloud expenditures
-  - Cost analytics
-  - Cost optimization (org accountability, Cloud efficiency)
-  - Cost allocations and chargebacks
+1.0 Overview
+1.1 Defining the cost management business requirements (Gerardo)
+  - cost allocation control
+  - chargeback to lobs
+  - designing elements of cost management strategy (subscription)
+1.2 defining your cost management strategy
+  - cost center
+  - shared services model/ distributed model
+ 
+ 
+2.0 Implementing Cost management in Azure (Gerardo)
+Enabling the components to enforce the strategy
+   2.1 Implementing metering and billing (process - how to do it once they deploy)
+   2.2 Implementing Showback and Chargeback
+
+3.0 Operationalizing Cost Management (Branavan - Alvaro to help)
+3.1 Assessing your Azure migration cost
+3.2 Designing your Azure subscription for cost management
+3.3 Implementing Azure Naming standards and Tagging
+3.4 Implementing Azure cost management policies
+3.5 Top 5 Azure cost management reports (dashboards: - optimization, forecasting)
+3.6 Monitoring your costs (thresholds, Alerts, quota)
+3.7 Cost optimization (reserve instances, Azure DevTest Subscr, Bring your own licence, Hybrid Licensing) 
+
+
+
