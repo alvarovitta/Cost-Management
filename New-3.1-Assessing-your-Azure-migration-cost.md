@@ -7,7 +7,9 @@ Microsoft has a tool that will help ease this task for you and its called Azure 
 What the assessment tool does is it calculates the post-migration compute and storage costs based on the recommendations done Azure Migrate for a machine, its disks, and the assessment properties. 
 
    - **Compute cost:** Using the recommended Azure VM size, Azure Migrate uses the Billing API to calculate the monthly cost for the VM. The calculation takes the operating system, software assurance, reserved instances, VM uptime, location, and currency settings into account. It aggregates the cost across all machines, to calculate the total monthly compute cost.
+
 <br/>
+  
    - **Storage cost:** The monthly storage cost for a machine is calculated by aggregating the monthly cost of all disks attached to the machine. Azure Migrate calculates the total monthly storage costs by aggregating the storage costs of all machines. Currently, the calculation doesn't take offers specified in the assessment settings into account.
 Costs are displayed in the currency specified in the assessment settings.
 
