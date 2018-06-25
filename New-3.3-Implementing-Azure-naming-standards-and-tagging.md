@@ -33,11 +33,10 @@ After you apply tags, you can retrieve all the resources in your subscription wi
   - Use the following recommended pattern for naming subscriptions:  
 Company, Department (optional), Product Line or Service (optional), Environment
       
- 
 <br />
 <br />
 
-  ## Tags: Use the following information when designing Azure resource tags: 
+### Tags: Use the following information when designing Azure resource tags: 
 
    - Each resource or resource group has a maximum of 15 tag name/value pairs. This limitation applies only to tags directly 
    applied to the resource group or resource. A resource group can contain many resources that each have 15 tag name/value 
