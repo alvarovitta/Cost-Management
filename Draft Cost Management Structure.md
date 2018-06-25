@@ -15,8 +15,7 @@ Define business level goals / requirements of cost management strategy
   - shared services model/ distributed model  
  
  
-2.0 Implementing Cost management in Azure (Gerardo)  
-Enabling the components to enforce the strategy  
+2.0 Implementing Cost management in Azure (Gerardo)   Enabling the components to enforce the strategy  
    2.1 Implementing metering and billing (process - how to do it once they deploy)  
    2.2 Implementing Showback and Chargeback  
 
