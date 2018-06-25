@@ -25,7 +25,7 @@ Add preparation details for this procedure (if there is a procedure)
 <br />
 <br />
 
-## Procedure: How to implement metering and billing
+## Procedure: How to implement Azure cost management reports
 Add steps for this procedure (if there is a procedure)  
 1.  **Step 1 information**  
   Details  
