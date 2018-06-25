@@ -6,7 +6,7 @@ Use the procedure described in this section when applying Azure tags to your sub
 <br />
 
 Apply tags to Azure resources to logically organize them by categories. Each tag consists of a name and a value. Define names and 
-values that make the most sense for organizing your subscription.  
+values that make the most sense for organizing your subscription. 
 
 After you apply tags, you can retrieve all the resources in your subscription with that tag name and value. Tags enable you to retrieve related resources from different resource groups. This approach is helpful when you need to organize resources for billing or management.
 
@@ -26,6 +26,7 @@ After you apply tags, you can retrieve all the resources in your subscription wi
   - Follow [Azure naming rules and restrictions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions). It is difficult to change a name later. 
   - Names must meet the requirements of their specific resource type 
   - Some types of resources require additional care for [naming conventions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions) 
+  - Follow the [best practices when implementing naming conventions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
   - When naming Azure subscriptions, verbose names make understanding the context and purpose of each subscription clear. 
   - When working in an environment with many subscriptions, following a shared naming convention can improve clarity. 
   - Use the following recommended pattern for naming subscriptions:  
