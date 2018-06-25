@@ -1,1 +1,30 @@
 # Implementing Showback and Chargeback
+Brief description of the intent of this section
+<br />
+<br />
+
+Insert descriptive main body content
+<br />
+<br />
+
+## Guidance
+- Add guidance or advice in bullet point form
+<br />
+<br />
+
+## Preparation
+Add preparation details for this procedure (if there is a procedure)
+<br />
+<br />
+
+## Procedure: How to implement showback and chargeback
+Add steps for this procedure (if there is a procedure)  
+1.  **Step 1 information**  
+  Details  
+2.   **Step 2 information**  
+  Details
+<br />
+<br />
+
+## Next steps
+[Operationalizing Cost Management](https://github.com/alvarovitta/Cost-Management/blob/master/New-3.0-Operationalizing-Cost-Management.md)
