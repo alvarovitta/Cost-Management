@@ -30,8 +30,7 @@ After you apply tags, you can retrieve all the resources in your subscription wi
 
   - Follow [Azure naming rules and restrictions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions). It is difficult to change a name later. 
   - Names must meet the requirements of their specific resource type 
-  - Some types of resources require additional care for [naming conventions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions) 
-  - Follow the [best practices when implementing naming conventions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
+  - Some types of resources require additional care so follow the [best practices for naming conventions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
   - When naming Azure subscriptions, verbose names make understanding the context and purpose of each subscription clear. 
   - When working in an environment with many subscriptions, following a shared naming convention can improve clarity. 
   - Use the following recommended pattern for naming subscriptions:  
