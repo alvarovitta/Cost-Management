@@ -22,17 +22,10 @@ It's easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azu
   - If your organization has a reporting system that you prefer to use, you can leverage [billing APIs](https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview) to help understand the usage and consumption.
   - [Regularly check the portal for cost breakdown and burn rate](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started#costs) to understand the current spend rate of your Azure resources
   - [Understand cost management reports](https://docs.microsoft.com/en-us/azure/cost-management/understanding-cost-reports)
-  - 
+  - Set up [budgets](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budgets) and [budget-based alerts](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budget-alerts-for-a-filter) help to improve your cloud governance and accountability
   
 <br />
 <br />
-
-
-## Preparation
-
-
-## Procedures
-
 
 
 ## Next steps
