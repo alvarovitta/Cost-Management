@@ -5,7 +5,8 @@ New Structure
 Define business level goals / requirements of cost management strategy
 
 
-1.0 Cost Management Overview  
+1.0 Defining your Cost Management Requirements and Strategy (Neil)
+
 1.1 Defining the cost management business requirements (Gerardo)  
   - cost allocation control  
   - chargeback to lobs  
