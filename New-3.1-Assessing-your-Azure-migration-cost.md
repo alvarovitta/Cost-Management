@@ -1,4 +1,6 @@
 # Assessing your Azure Migration Cost
+Use the information and procedure described in this section to assess and plan your workloads in Azure.
+
 
 When assessing your on-premise migration to Azure, not only should you consider what applications or systems you wish to migrate over to Azure but you should also understand the costs associated with the migration.
 
