@@ -42,6 +42,9 @@ Here is an example of a cost over time report:
 
 ## Procedure
 
+- [Register an individual Azure subscription and view cost data](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub)
+- [Register an Azure Enterprise Agreement and view cost data](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea)
+- [Register with the CSP Partner program and view cost data](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)
 - [How to Review Usage and Costs using the Cloudyn Portal](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#open-the-cloudyn-portal)
 - [How to Manage Costs using Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
 
