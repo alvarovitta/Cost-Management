@@ -1,5 +1,5 @@
 # Implementing Azure Cost Management Policies
-Brief description of the intent of this section
+
 <br />
 <br />
 
