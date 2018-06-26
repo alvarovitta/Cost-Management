@@ -1,4 +1,4 @@
-# Defining your Cost Management Objectives and Strategy
+# Defining your Cost Management Requirements and Strategy
 Brief description of the section content
 <br />
 <br />
