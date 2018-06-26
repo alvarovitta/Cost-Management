@@ -15,7 +15,7 @@ The content in this guide is appropriate for use by (but not strictly limited to
 <br />
 
 ## Designing and implementing your cost management strategy
-Use the following processes in sequence to design and implement your cost management strategy:
+Use the following processes in sequence to design and implement your organization's cost management strategy:
 
 - [Defining your Cost Management Requirements and Strategy](New-1.0-Defining-your-Cost-Management-Requirements-and-Strategy.md):  
 
