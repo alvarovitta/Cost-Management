@@ -5,10 +5,10 @@ Use the information and procedure described in this section to assess and plan y
 
 Consider the costs associated with migrating applications or systems to Azure. Use the Microsoft tool: *Azure Migrate* to assess the scale of workload migration and estimate the costs for running on-premises machines in Azure.
 
-Azure Migrate calculates an estimate of costs associated with the post-migration compute and storage. Estimates are calculated based on the size requirements as recommended by Azure Migrate for a Virtual Machine (VM) and its disks.
+Azure Migrate calculates an estimate of costs associated with the post-migration compute and storage. Estimates are calculated based on  sizing requirements for a virtual machine (VM) and its disks.
 
 Azure Migrate calculates:  
-- **Compute cost**: Using the recommended Azure VM size, Azure Migrate uses the Billing API to calculate the monthly cost for the VM. The calculation takes the operating system, software assurance, reserved instances, VM uptime, location, and currency settings into account. It aggregates the cost across all machines, to calculate the total monthly compute cost. 
+- **Compute cost**: Azure Migrate uses the Billing API to calculate the monthly cost for the VM based on the recommended VM size. The calculation uses variables such as: the operating system, software assurance, reserved instances, VM uptime, location, and currency settings. It aggregates the cost across all machines to calculate the total monthly compute cost. 
 
   
 - **Storage cost**: The monthly storage cost for a machine is calculated by aggregating the monthly cost of all disks attached to the machine. Azure Migrate calculates the total monthly storage costs by aggregating the storage costs of all machines. Currently, the calculation doesn't take offers specified in the assessment settings into account.
@@ -17,7 +17,6 @@ Costs are displayed in the currency specified in the assessment settings.
 Once the assessment is completed, it will then illustrate the estimated monthly costs for compute and storage for each machine in the following view below:
 
 ![assessment](https://github.com/alvarovitta/Cost-Management/blob/master/Images/assessment-vm-cost.png)
-
 <br/>
 <br/>
 
