@@ -20,7 +20,7 @@ Here is an example of a cost over time report:
 
   - Implement [Resource Tags](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started#tags) to group your billing data
   - [Set up Billing Alerts](https://docs.microsoft.com/en-us/azure/billing/billing-set-up-alerts) to create customized billing alerts that help you monitor and manage billing activity for your Azure accounts. This will ensure stakeholders are automatically alerted of their usage costs and spending anomalies.
-  - If your organization has a reporting system that you prefer to use, you can leverage [billing APIs](https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview) to help understand the usage and consumption.
+  - If your organization has a reporting system that you prefer to use, leverage [Azure billing APIs](https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview) to help understand your usage and consumption.
   - [Regularly check the portal for cost breakdown and burn rate](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started#costs) to understand the current spend rate of your Azure resources
   - [Understand cost management reports](https://docs.microsoft.com/en-us/azure/cost-management/understanding-cost-reports)
   - Set up [budgets](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budgets) and [budget-based alerts](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budget-alerts-for-a-filter) to help to improve your cloud governance model and ensure that your lines of business stakeholers are accountable for their subscription costs
