@@ -1,4 +1,4 @@
-# Identifying your Cost Management Business Requiremments
+# Defining your Cost Management Objectives
 Brief description of the section content
 <br />
 <br />
