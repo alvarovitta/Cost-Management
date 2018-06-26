@@ -4,8 +4,8 @@ Cost optimization is not a one-time effort. It is an evolving process that needs
 
 The core principle to optimizing cost efficiency is to:
 
-- Increase resource utilization with virtual machine right-sizing: this will help ensure that 
-- Eliminate idle resources: 
+- Increase resource utilization with virtual machine right-sizing: this will help ensure that your virtual machines are of the correct size when 
+- Eliminate idle resources: You can determine optimal VM usage and identify idle VMs or remove idle VMs and unattached disks with Cost Management.
 - Optimize reserved instances
 
 <br />
