@@ -3,11 +3,12 @@ Use the information and procedure described in this section to assess and plan y
 <br />
 <br />
 
-Consider the costs associated with migrating the applications or systems you wish to migrate to Azure. Use Azure Migrate to assess the scale of workload migration and estimate the costs for running on-premises machines in Azure.
+Consider the costs associated with migrating applications or systems to Azure. Use Azure Migrate to assess the scale of workload migration and estimate the costs for running on-premises machines in Azure.
 
 Azure Migrate calculates an estimate of costs associated with the post-migration compute and storage. Estimates are calculated based on the scale of operations as recommended by Azure Migrate for a machine, its disks, and the assessment properties:
 
-   - **Compute cost:** Using the recommended Azure VM size, Azure Migrate uses the Billing API to calculate the monthly cost for the VM. The calculation takes the operating system, software assurance, reserved instances, VM uptime, location, and currency settings into account. It aggregates the cost across all machines, to calculate the total monthly compute cost. 
+**Compute cost**:  
+   Using the recommended Azure VM size, Azure Migrate uses the Billing API to calculate the monthly cost for the VM. The calculation takes the operating system, software assurance, reserved instances, VM uptime, location, and currency settings into account. It aggregates the cost across all machines, to calculate the total monthly compute cost. 
 
 <br/>
   
