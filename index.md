@@ -6,11 +6,11 @@ Use the information in this guide to plan your Azure cost management model.
 This guide provides practical advice to help you make appropriate decisions when planning and implementing your organization's cost strategy to manage Azure resources.
 
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
-- Security Architect
-- CISO
-- Chief Identity Architects
-- Enterprise Architects
-- IT Architects
+- CFO
+- Procurement Officer
+- Cloud Enablement Clerk 
+- Cloud Solution Architect
+- Accounts Payable Clerk
 <br />
 <br />
 
