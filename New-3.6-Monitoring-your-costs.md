@@ -1,41 +1,38 @@
 # Monitoring your Costs 
-Brief description of the intent of this section
-<br />
-<br />
 
-Insert descriptive main body content
-<Table if needed>
+Monitoring your usage and spending is critically important for cloud infrastructures because organizations pay for the resources they consume over time. When usage exceeds agreement thresholds, unexpected cost overages can quickly occur. 
+
+Azure Cost Management can help you track cloud usage and expenditures for your Azure resources so that you can:
   
-|  Heading |  Heading  | Heading |
-| ---- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+  - [track trends](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends), 
+  - [detect inefficiencies](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends)     - [create alerts](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#create-alerts-for-unusual-spending). 
+ 
+It's easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azure/cost-management/dashboards) help with cost allocation and showbacks/chargebacks as well. 
+
+![costmanagement](https://github.com/alvarovitta/Cost-Management/blob/master/Images/cost-over-time-rpt.png)
 
 <br />
 <br />
 
 ## Guidance
-- Add guidance or advice in bullet point form
+
+  - Implement [Resource Tags](3.3-Implementing-Azure-naming-standards-and-tagging.md) to group your billing data
+  - [Set up Billing Alerts](https://docs.microsoft.com/en-us/azure/billing/billing-set-up-alerts) to create customized billing alerts that help you monitor and manage billing activity for your Azure accounts
+  - If your organization has a reporting system that you prefer to use, you can leverage [billing APIs](https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview) to help understand the usage and consumption.
+  - [Regularly check the portal for cost breakdown and burn rate](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started#costs) to understand the current spend rate of your Azure resources
+  - [Understand cost management reports](https://docs.microsoft.com/en-us/azure/cost-management/understanding-cost-reports)
+  - 
+  
 <br />
 <br />
+
 
 ## Preparation
-Add preparation details for this procedure (if there is a procedure)   
-Perform the following activities before you begin the procedure tasks:  
-- xyz
-- xyz
-<br />
-<br />
 
-## Procedure: How to monitor your costs
-Add steps for this procedure (if there is a procedure)  
-1.  **Step 1 information**  
-  Details  
-2.   **Step 2 information**  
-  Details
-<br />
-<br />
+
+## Procedures
+
+
 
 ## Next steps
 [Cost Optimization](New-3.7-Cost-Optimization.md)
