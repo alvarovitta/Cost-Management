@@ -4,8 +4,9 @@ Monitoring your usage and spending is critically important for cloud infrastruct
 
 Azure Cost Management can help you track cloud usage and expenditures for your Azure resources so that you can:
   
-  - [track trends](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends), 
-  - [detect inefficiencies](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends)     - [create alerts](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#create-alerts-for-unusual-spending). 
+  - [track trends](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends),
+  - [detect inefficiencies](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends)
+  - [create alerts](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#create-alerts-for-unusual-spending). 
  
 It's easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azure/cost-management/dashboards) help with cost allocation and showbacks/chargebacks as well. 
 
