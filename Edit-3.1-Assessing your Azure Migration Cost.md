@@ -20,13 +20,6 @@ The figure below illustrates an example of a completed assessment. The estimate 
 <br/>
 <br/>
 
-## Preparation
-Perform the following activities before you begin the procedure tasks: 
-
-  - Review and understand the [prerequisites](https://docs.microsoft.com/en-us/azure/migrate/how-to-scale-assessment#prerequisites) on what you need to be aware of prior to the assessment
-  - Review the [port requirements](https://docs.microsoft.com/en-us/azure/migrate/migrate-overview#what-are-the-port-requirements) for Azure Migrate
-  - [Plan your migration projects and discoveries](https://docs.microsoft.com/en-us/azure/migrate/how-to-scale-assessment#plan-your-migration-projects-and-discoveries)
-
 ## Guidance
 Use the following guidance in assessing and planning your workloads to Azure.
 
@@ -37,12 +30,23 @@ Use the following guidance in assessing and planning your workloads to Azure.
 - Customize the default [assessment properties](https://docs.microsoft.com/en-us/azure/migrate/how-to-modify-assessment#edit-assessment-properties) in Azure migrate as per your requirements
 
 - Before running an assessment, [group machines using machine dependency mapping](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies#prepare-machines-for-dependency-mapping). This will give you a visualization on the dependencies of your machines. This will help you effectively plan your migration to Azure because you will ensure that nothing is left behind and most importantly discover all the interdependent systems that need to migrate together, identify whether a running system is still serving users and/or is a candidate for decommissioning instead of migration.
+<br/>
+<br/>
+
+## Preparation
+Perform the following activities before you begin the procedure tasks: 
+
+  - Review and understand the [prerequisites](https://docs.microsoft.com/en-us/azure/migrate/how-to-scale-assessment#prerequisites) on what you need to be aware of prior to the assessment
+  - Review the [port requirements](https://docs.microsoft.com/en-us/azure/migrate/migrate-overview#what-are-the-port-requirements) for Azure Migrate
+  - [Plan your migration projects and discoveries](https://docs.microsoft.com/en-us/azure/migrate/how-to-scale-assessment#plan-your-migration-projects-and-discoveries)
+<br/>
+<br/>
 
 ## Procedure 
+Learn [how to assess your on-premises VMware VMs for migration to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
+<br/>
+<br/>
 
-- Learn [how to assess your on-premises VMware VMs for migration to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
-
-
-## Next Steps
-See [Designing your Azure Subscription for Cost Management](https://github.com/alvarovitta/Cost-Management/blob/master/New-3.2-Designing-your-Azure-subscription-for-cost-management.md)
+## Next steps
+[Designing your Azure Subscription for Cost Management](New-3.2-Designing-your-Azure-subscription-for-cost-management.md)
 
