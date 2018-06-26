@@ -1,5 +1,13 @@
 # Cost Optimization
-Brief description of the intent of this section
+
+Cost optimization is not a one-time effort. It is an evolving process that needs to be defined by your organization to systematically review the resources deployed to your Azure subscriptions. 
+
+The core principle to optimizing cost efficiency is to:
+
+- Increase resource utilization with virtual machine right-sizing: this will help ensure that 
+- Eliminate idle resources: 
+- Optimize reserved instances
+
 <br />
 <br />
 
@@ -16,7 +24,8 @@ Insert descriptive main body content
 <br />
 
 ## Guidance
-- Add guidance or advice in bullet point form
+
+
 <br />
 <br />
 
