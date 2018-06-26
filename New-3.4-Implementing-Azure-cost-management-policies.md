@@ -3,37 +3,24 @@ Brief description of the intent of this section
 <br />
 <br />
 
-Insert descriptive main body content
-<Table if needed>
-  
-|  Heading |  Heading  | Heading |
-| ---- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+Implementing policies to control the cost of your Azure resources is a foundational component of Azure cost management. With Azure Cost Management you can monitor your cloud spend, increase organizational accountability and optimize cloud efficiency. 
 
 <br />
 <br />
 
 ## Guidance
-- Add guidance or advice in bullet point form
-<br />
-<br />
 
-## Preparation
-Add preparation details for this procedure (if there is a procedure)   
-Perform the following activities before you begin the procedure tasks:  
-- xyz
-- xyz
-<br />
-<br />
+The table below illustrates the policies that you can use to control the cost of your Azure resources:
 
-## Procedure: How to implement Azure cost management policies
-Add steps for this procedure (if there is a procedure)  
-1.  **Step 1 information**  
-  Details  
-2.   **Step 2 information**  
-  Details
+|  Policy |  Description | 
+| ---- | --- | 
+| [Apply Tag and its Default Value](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/apply-tag-def-val)   |  Appends a specified tag name and value, if that tag is not provided. You specify the tag name and value to apply. |   
+| [Billing Tags Policy Initiative](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/billing-tags-policy-init) | Requires specified tag values for cost center and product name. Uses built-in policies to apply and enforce required tags. You specify the required values for the tags.  |   
+| [Enforce Tag and its Value](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/enforce-tag-val) | Requires a specified tag name and value. You specify the tag name and value to enforce.  |   
+| [Enforce Tag and its Value on Resource Groups](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/enforce-tag-rg)  | Requires a tag and value on a resource group. You specify the required tag name and value.  |   
+| [Allowed Resource Types](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/allowed-res-types)  | Ensures only approved resource types are deployed. You specify an array of resource types that are permitted. |   
+| [Not Allowed Resource Types](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/not-allowed-res-type)  | Prohibits the deployment of specified resource types. You specify an array of the resource types to block. |   
+
 <br />
 <br />
 
