@@ -23,8 +23,9 @@ Here is an example of a cost over time report:
   - If your organization has a reporting system that you prefer to use, you can leverage [billing APIs](https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview) to help understand the usage and consumption.
   - [Regularly check the portal for cost breakdown and burn rate](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started#costs) to understand the current spend rate of your Azure resources
   - [Understand cost management reports](https://docs.microsoft.com/en-us/azure/cost-management/understanding-cost-reports)
-  - Set up [budgets](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budgets) and [budget-based alerts](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budget-alerts-for-a-filter) help to improve your cloud governance and accountability
+  - Set up [budgets](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budgets) and [budget-based alerts](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budget-alerts-for-a-filter) to help to improve your cloud governance model and ensure that your lines of business stakeholers are accountable for their subscription costs
   - [Turn on Azure Advisor recommendations](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started#turn-on-and-check-out-azure-advisor-recommendations) to help you reduce costs by identifying resources with low usage
+  - [Assign access](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-user-access) to lines of business stakeholders so that they can have visibility on their cost management data.
 
 <br />
 <br />
