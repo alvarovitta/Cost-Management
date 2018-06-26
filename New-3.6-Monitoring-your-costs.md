@@ -2,7 +2,7 @@
 
 Monitoring your usage and spending is critically important for cloud infrastructures because organizations pay for the resources they consume over time. When usage exceeds agreement thresholds, unexpected cost overages can quickly occur. 
 
-Azure Cost Management can help you track cloud usage and expenditures for your Azure resources so that you can:
+Azure Cost Management (which is licensed by Cloudyn, a Microsoft subsidiary)  can help you track cloud usage and expenditures for your Azure resources so that you can:
   
   - [track trends](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends),
   - [detect inefficiencies](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends)
@@ -39,7 +39,7 @@ It's easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azu
 
 ## Procedure
 
-- [How to Review Usage Costs using Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#open-the-cloudyn-portal)
+- [How to Review Usage and Costs using the Cloudyn Portal](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#open-the-cloudyn-portal)
 - [How to Manage Costs using Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
 
 <br />
