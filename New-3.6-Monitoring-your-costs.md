@@ -7,7 +7,7 @@ Azure Cost Management (which is licensed by Cloudyn, a Microsoft subsidiary)  ca
   - [Track trends](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends): You track actual money spent for usage and costs with Over Time reports to identify trends.
   - [Detect Inefficiencies](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends): by creating optimizer reports that improve efficiency, optimize usage, and identify ways to save money spent on your cloud resources. 
   - [Create Alerts for Unusual Spending](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#create-alerts-for-unusual-spending): to alert stakeholders automatically for spending anomalies and overspending risks
-  - Create and use easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azure/cost-management/dashboards) to help with cost allocation and showbacks/chargebacks. 
+  - Create and use easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azure/cost-management/dashboards) to help with cost allocation, [showbacks and chargebacks](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs#create-showback-and-chargeback-reports). 
 
 Here is an example of a cost over time report:
 
