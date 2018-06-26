@@ -4,11 +4,12 @@ Monitoring your usage and spending is critically important for cloud infrastruct
 
 Azure Cost Management (which is licensed by Cloudyn, a Microsoft subsidiary)  can help you track cloud usage and expenditures for your Azure resources so that you can:
   
-  - [track trends](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends),
-  - [detect inefficiencies](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends)
-  - [create alerts](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#create-alerts-for-unusual-spending) 
- 
-It's easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azure/cost-management/dashboards) help with cost allocation and showbacks/chargebacks as well. 
+  - [Track trends](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends): You track actual money spent for usage and costs with Over Time reports to identify trends.
+  - [Detect Inefficiencies](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#track-usage-and-cost-trends): by creating optimizer reports that improve efficiency, optimize usage, and identify ways to save money spent on your cloud resources. 
+  - [Create Alerts](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#create-alerts-for-unusual-spending): to alert stakeholders automatically for spending anomalies and overspending risks
+  - Use easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azure/cost-management/dashboards) to help with cost allocation and showbacks/chargebacks as well. 
+
+Here is an example of a cost over time report:
 
 ![costmanagement](https://github.com/alvarovitta/Cost-Management/blob/master/Images/cost-over-time-rpt.png)
 
