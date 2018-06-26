@@ -8,7 +8,7 @@ Consider the costs associated with migrating applications or systems to Azure. U
 Azure Migrate calculates an estimate of costs associated with the post-migration compute and storage. Estimates are calculated based on  sizing requirements for a virtual machine (VM) and its disks.
 
 Azure Migrate calculates:  
-- **Compute cost**: Use the Billing API to calculate the monthly cost for the VM based on the recommended VM size. The calculation  variables include: the operating system, software assurance, reserved instances, VM uptime, location, and currency settings. The API  aggregates the cost of all machines to calculate the total monthly compute cost. 
+- **Compute cost**: The Billing API calculates the monthly cost for the VM based on the recommended VM size. The calculation  variables include: the operating system, software assurance, reserved instances, VM uptime, location, and currency settings. The API aggregates the cost of all machines to calculate the total monthly compute cost. 
 
 - **Storage cost**:  The total monthly storage costs of all machines. Costs are displayed in the currency specified in the assessment settings. *Note*: The calculation doesn't include offers specified in the assessment settings. 
 
