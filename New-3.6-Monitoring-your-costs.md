@@ -24,7 +24,6 @@ It's easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azu
   - [Understand cost management reports](https://docs.microsoft.com/en-us/azure/cost-management/understanding-cost-reports)
   - Set up [budgets](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budgets) and [budget-based alerts](https://docs.microsoft.com/en-us/azure/cost-management/manage-budgets#create-budget-alerts-for-a-filter) help to improve your cloud governance and accountability
 
-  
 <br />
 <br />
 
@@ -32,9 +31,19 @@ It's easy-to-understand [dashboard reports](https://docs.microsoft.com/en-us/azu
 
  - Ensure you an Azure account with at least account administrator rights
  - You must have either a trial registration or paid subscription for Azure Cost Management.
+ - [Unactivated accounts must be activated](https://docs.microsoft.com/en-us/azure/cost-management/activate-subs-accounts) in the Cloudyn portal.
+ - [Guest-level monitoring](https://docs.microsoft.com/en-us/azure/cost-management/azure-vm-extended-metrics) must be enabled on your virtual machines.
+
+<br />
+<br />
 
 ## Procedure
 
+- [How to Review Usage Costs using Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-review-usage#open-the-cloudyn-portal)
+- [How to Manage Costs using Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
+
+<br />
+<br />
 
 ## Next steps
 [Cost Optimization](New-3.7-Cost-Optimization.md)
