@@ -1,5 +1,5 @@
 # Implementing Azure Cost Management Policies
-Use the information described in this section to help you to implement Azure resource cost control policies.
+Use the information described in this section to help you implement Azure resource cost control policies.
 <br />
 <br />
 
