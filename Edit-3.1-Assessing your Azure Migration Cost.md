@@ -51,7 +51,7 @@ Perform the following activities before you begin the assessment procedure tasks
 <br/>
 
 ## Procedure 
-Perform [how to assess your on-premises VMware VMs for migration to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
+Perform the procedure as noted in the link: [how to assess your on-premises VMware VMs for migration to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
 <br/>
 <br/>
 
