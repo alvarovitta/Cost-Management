@@ -53,8 +53,8 @@ Use the following approach when designing Azure resource tags:
    can contain many tag values. 
    - Tags applied to the resource group are not inherited by the resources in that resource group. 
    - Use Azure resource policies to apply and enforce mandatory tags across your subscriptions and resource groups. Use this approach to avoid deploying resources without the required tags. 
-   - Leverage Tags for billing monitoring and reporting purposes
-   - Leverage Tags for resource security and inventory  
+   - Use Tags for billing monitoring and reporting purposes
+   - Use Tags for resource security and inventory purposes  
    - The length of tag names are limited to 512 characters, and the tag value is limited to 256 characters. For storage accounts, the tag name is limited to 128 characters, and the tag value is limited to 256 characters. 
    - For further information on tags, see: [Use tags to organize your Azure resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
 <br />
