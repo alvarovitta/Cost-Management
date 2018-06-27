@@ -1,10 +1,9 @@
 # Implementing Azure Cost Management Policies
-
+Use the information described in this section to help you to implement Azure resource cost control policies.
 <br />
 <br />
 
-Implementing policies to control the cost of your Azure resources allows you as an organization to ensure that there is governance and accountability with respect to your Azure resources. With Azure Cost Management you can monitor your cloud spend, increase organizational accountability and optimize cloud efficiency. 
-
+Use policies to control the cost and to ensure appropriate governance and accountability of your organization's Azure resources. With *Azure Cost Management*, you can monitor your cloud spending, increase organizational accountability, and optimize cloud efficiency. 
 <br />
 <br />
 
