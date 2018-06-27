@@ -3,13 +3,13 @@ Use the information described in this section to help you to implement Azure res
 <br />
 <br />
 
-Use policies to control the cost and to ensure appropriate governance and accountability of your organization's Azure resources. With *Azure Cost Management*, you can monitor your cloud spending, increase organizational accountability, and optimize cloud efficiency. 
+Use policies to control the cost and to ensure appropriate governance and accountability of your organization's Azure resources. Use *Azure Cost Management*, to monitor your cloud spending, increase organizational accountability, and optimize cloud efficiency. 
 <br />
 <br />
 
 ## Guidance
 
-The table below illustrates the policies that you can use to control the cost of your Azure resources:
+The table below lists the policies you can use to control the cost of your Azure resources:
 
 |  Policy |  Description | 
 | ---- | --- | 
@@ -19,7 +19,6 @@ The table below illustrates the policies that you can use to control the cost of
 | [Enforce Tag and its Value on Resource Groups](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/enforce-tag-rg)  | Requires a tag and value on a resource group. You specify the required tag name and value.  |   
 | [Allowed Resource Types](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/allowed-res-types)  | Ensures only approved resource types are deployed. You specify an array of resource types that are permitted. |   
 | [Not Allowed Resource Types](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/not-allowed-res-type)  | Prohibits the deployment of specified resource types. You specify an array of the resource types to block. |   
-
 <br />
 <br />
 
