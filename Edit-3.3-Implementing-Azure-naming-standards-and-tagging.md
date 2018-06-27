@@ -2,33 +2,22 @@
 Use the information and procedure described in this section to apply Azure tags to your subscription. 
 <br />
 <br />
+
 Apply tags to Azure resources when you need to group your billing data. A tag consists of a name and value.  
 For example:   
 - **"costCenter:finance"**, 
 - **"env":"prod"**. 
 
 In the above example, there are two tags applied to a resource. The first tag, "**costCenter:finance**" groups the usage by cost center. The second tag, "**env":"prod**" categorizes the cost by environment, in this case production. 
+<br />
+<br />
 
-You can define as many tags as needed to categorize your Azure resources. However, you will need to define a tagging standard and ensure that the standard is followed by all key stakeholders of your organization.
+You can define as many tags as needed to categorize your Azure resources however, you will need to define a tagging standard to ensure consistent traceability and categorization of resources. Ensure that the standard is followed by all key stakeholders in your organization.
 
 When you download the usage CSV for services that support tags with billing, the tags appear in the Tags column. See the example below:
 
 ![billing](https://github.com/alvarovitta/Cost-Management/blob/master/Images/billing_csv.png)
 
-Apply tags to Azure resources to logically organize them by categories. Each tag consists of a name and a value. Define names and 
-values that make the most sense for organizing your subscription.  
-
-Tags should include three types of information:
-
-1. **Billing Information**: cost center, billing ID, etc.
-2. **Ownership Information**: contact details
-3. **Purpose Information**: environment, application, service
-
-Example of a common tagging approach: 
-
-   | __Tag Name__ | __Key__ | __Example__ | __Comment__ |
-   |------------------------------|----------------------------|----------------------------|----------------------------|
-   | Bill To / Internal Chargeback ID   | billTo  | IT-Chargeback-1234   |  An internal I/O or billing code  | 
 
 Use the common tag examples as a template on which to base your organization's requirements to organize your resources for billing or management.
 
