@@ -48,5 +48,5 @@ Learn [how to assess your on-premises VMware VMs for migration to Azure](https:/
 <br/>
 
 ## Next steps
-[Designing your Azure Subscription for Cost Management](New-3.2-Designing-your-Azure-subscription-for-cost-management.md)
+[Designing your Azure Subscription for Cost Management](3.2-Designing-your-Azure-subscription-for-cost-management.md)
 
