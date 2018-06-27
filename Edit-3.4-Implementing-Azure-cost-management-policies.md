@@ -9,12 +9,12 @@ Use policies to control the cost and to ensure appropriate governance and accoun
 
 ## Guidance
 
-The table below lists the policies you can use to control the cost of your Azure resources. Select the appropriate link to display and use an applicable json template:
+The table below lists the policies you can use to control the cost of your Azure resources. Select the appropriate link to display and deploy an applicable json template:
 
 |  Policy |  Description | 
 | ---- | --- | 
-| [Apply Tag and its Default Value](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/apply-tag-def-val)   |  Appends a specified tag name and value, if that tag is not provided. You specify the tag name and value to apply. |   
-| [Billing Tags Policy Initiative](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/billing-tags-policy-init) | Requires specified tag values for cost center and product name. Uses built-in policies to apply and enforce required tags. You specify the required values for the tags.  |   
+| [Apply Tag and its Default Value](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/apply-tag-def-val)   |  Applies a required tag and its default value if they are not specified by the user. |   
+| [Billing Tags Policy Initiative](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/billing-tags-policy-init) | Tag values required for cost center and product name. Uses built-in policies to apply and enforce required tags. You specify the required values for the tags.  |   
 | [Enforce Tag and its Value](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/enforce-tag-val) | Requires a specified tag name and value. You specify the tag name and value to enforce.  |   
 | [Enforce Tag and its Value on Resource Groups](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/enforce-tag-rg)  | Requires a tag and value on a resource group. You specify the required tag name and value.  |   
 | [Allowed Resource Types](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/allowed-res-types)  | Ensures only approved resource types are deployed. You specify an array of resource types that are permitted. |   
