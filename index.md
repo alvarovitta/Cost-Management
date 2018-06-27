@@ -19,13 +19,13 @@ The content in this guide is appropriate for use by (but not strictly limited to
 ## Designing and implementing your cost management strategy
 Use the following processes in sequence to design and implement your organization's cost management strategy:
 
-- [Defining your Cost Management Requirements and Strategy](New-1.0-Defining-your-Cost-Management-Requirements-and-Strategy.md):  
+- [Defining your Cost Management Requirements and Strategy](1.0-Defining-your-Cost-Management-Requirements-and-Strategy.md):  
 
-- [Implementing Cost Management in Azure](New-2.0-Implementing-cost-management-in-Azure.md):  
+- [Implementing Cost Management in Azure](2.0-Implementing-cost-management-in-Azure.md):  
 
-- [Operationalizing Cost Management](New-3.0-Operationalizing-Cost-Management.md):  
+- [Operationalizing Cost Management](3.0-Operationalizing-Cost-Management.md):  
 <br />
 <br />
 
 ## Next steps
-[Defining your Cost Management Requirements and Strategy](New-1.0-Defining-your-Cost-Management-Requirements-and-Strategy.md)
+[Defining your Cost Management Requirements and Strategy](1.0-Defining-your-Cost-Management-Requirements-and-Strategy.md):  
