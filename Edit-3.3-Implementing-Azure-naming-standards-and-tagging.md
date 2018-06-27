@@ -17,9 +17,9 @@ You can define as many tags as needed to categorize your Azure resources however
 When you download the usage CSV for services that support tags with billing, the tags appear in the Tags column. See the example below:
 
 ![billing](https://github.com/alvarovitta/Cost-Management/blob/master/Images/billing_csv.png)
+<br />
+<br />
 
-
-Use the common tag examples as a template on which to base your organization's requirements to organize your resources for billing or management.
 
 After you apply tags, you can retrieve all the resources in your subscription using a tag name and value. Use tags to retrieve related resources from different resource groups. 
 <br />
@@ -29,7 +29,7 @@ After you apply tags, you can retrieve all the resources in your subscription us
 Use the Tag Name and Tag Design approach described below for your Azure resource tags.
 
 **Tag Names**:  
-Use the following information when naming your Azure resource tags.
+Use the following approach when naming your Azure resource tags.
 
   - Follow [Azure naming rules and restrictions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions). It is difficult to change a name later. 
   - Names must meet the requirements of their specific resource type 
@@ -44,7 +44,7 @@ Use the following information when naming your Azure resource tags.
 <br />
 
 **Tag Design**:  
-Use the following information when designing Azure resource tags: 
+Use the following approach when designing Azure resource tags: 
 
    - Each resource or resource group has a maximum of 15 tag name/value pairs. This limitation applies only to tags directly 
    applied to the resource group or resource. A resource group can contain many resources; each having 15 tag name/value 
