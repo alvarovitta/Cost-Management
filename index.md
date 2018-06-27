@@ -23,7 +23,7 @@ Use the following processes in sequence to design and implement your organizatio
 
 2. [Implementing Cost Management in Azure](2.0-Implementing-cost-management-in-Azure.md):  
 
-3. [Operationalizing Cost Management](3.0-Operationalizing-Cost-Management.md):  
+3. [Operationalizing Cost Management](3.0-Operationalizing-Cost-Management.md):  Use the information described in this section to assess and bring into operation your cost management strategy. Follow the procedures and guidance as required. 
 <br />
 <br />
 
