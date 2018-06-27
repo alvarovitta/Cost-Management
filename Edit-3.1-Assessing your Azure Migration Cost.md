@@ -27,25 +27,31 @@ Use the following guidance in assessing and planning your workloads to Azure.
 
 - Understand [How Azure Migrate Works](https://docs.microsoft.com/en-us/azure/migrate/migrate-overview#how-does-azure-migrate-work)
 
-- When you use Azure Migrate to conduct an assessment of your VMs, keep machines with interdependencies within the same project and assessment. If for example, you are using vCenter Server, ensure that dependent machines are in the same folder, datacenter, or cluster for the assessment. 
+- Before running an assessment, [group machines using machine dependency mapping](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies#prepare-machines-for-dependency-mapping). Grouping VMs helps you to visualize the dependencies of your machines and to effectively plan your migration to Azure.  
 
-- Before running an assessment, [group machines using machine dependency mapping](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies#prepare-machines-for-dependency-mapping). This will give you a visualization on the dependencies of your machines. This will help you effectively plan your migration to Azure because you will ensure that nothing is left behind and most importantly discover all the interdependent systems that need to migrate together, identify whether a running system is still serving users and/or is a candidate for decommissioning instead of migration.
+  Grouping VMs will:
+   - ensure that nothing is left behind  
+   - discover all the interdependent systems that need to migrate together  
+   - identify whether a running system is still serving users and/or is a candidate for decommissioning instead of migration.
+
+- When you use Azure Migrate to conduct an assessment of your VMs, keep machines with interdependencies within the same project and assessment. If for example, you are using vCenter Server, ensure that dependent machines are in the same folder, datacenter, or cluster. 
 
 - Customize the default [assessment properties](https://docs.microsoft.com/en-us/azure/migrate/how-to-modify-assessment#edit-assessment-properties) in Azure migrate according to your requirements
 <br/>
 <br/>
 
 ## Preparation
-Perform the following activities before you begin the procedure tasks: 
+Perform the following activities before you begin the assessment procedure tasks: 
 
-  - Review and understand the [prerequisites](https://docs.microsoft.com/en-us/azure/migrate/how-to-scale-assessment#prerequisites) on what you need to be aware of prior to the assessment
+  - Review and understand the [prerequisites](https://docs.microsoft.com/en-us/azure/migrate/how-to-scale-assessment#prerequisites)
+  
   - Review the [port requirements](https://docs.microsoft.com/en-us/azure/migrate/migrate-overview#what-are-the-port-requirements) for Azure Migrate
   - [Plan your migration projects and discoveries](https://docs.microsoft.com/en-us/azure/migrate/how-to-scale-assessment#plan-your-migration-projects-and-discoveries)
 <br/>
 <br/>
 
 ## Procedure 
-Learn [how to assess your on-premises VMware VMs for migration to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
+Perform [how to assess your on-premises VMware VMs for migration to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
 <br/>
 <br/>
 
