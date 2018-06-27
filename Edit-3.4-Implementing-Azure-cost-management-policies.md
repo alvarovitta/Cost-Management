@@ -9,7 +9,7 @@ Use policies to control the cost and to ensure appropriate governance and accoun
 
 ## Guidance
 
-The table below lists the policies you can use to control the cost of your Azure resources:
+The table below lists the policies you can use to control the cost of your Azure resources. Select the appropriate link to display and use an applicable json template:
 
 |  Policy |  Description | 
 | ---- | --- | 
