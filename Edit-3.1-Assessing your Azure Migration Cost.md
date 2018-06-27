@@ -27,11 +27,11 @@ Use the following guidance in assessing and planning your workloads to Azure.
 
 - Understand [How Azure Migrate Works](https://docs.microsoft.com/en-us/azure/migrate/migrate-overview#how-does-azure-migrate-work)
 
-- When you use Azure Migrate to conduct an assessment of your virtual machines, we recommend that you keep machines with interdependencies within the same project and assessment. If for example, you are using vCenter Server, make sure that dependent machines are in the same folder, datacenter, or cluster for the assessment. 
-
-- Customize the default [assessment properties](https://docs.microsoft.com/en-us/azure/migrate/how-to-modify-assessment#edit-assessment-properties) in Azure migrate as per your requirements
+- When you use Azure Migrate to conduct an assessment of your VMs, keep machines with interdependencies within the same project and assessment. If for example, you are using vCenter Server, ensure that dependent machines are in the same folder, datacenter, or cluster for the assessment. 
 
 - Before running an assessment, [group machines using machine dependency mapping](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies#prepare-machines-for-dependency-mapping). This will give you a visualization on the dependencies of your machines. This will help you effectively plan your migration to Azure because you will ensure that nothing is left behind and most importantly discover all the interdependent systems that need to migrate together, identify whether a running system is still serving users and/or is a candidate for decommissioning instead of migration.
+
+- Customize the default [assessment properties](https://docs.microsoft.com/en-us/azure/migrate/how-to-modify-assessment#edit-assessment-properties) in Azure migrate according to your requirements
 <br/>
 <br/>
 
