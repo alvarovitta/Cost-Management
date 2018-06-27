@@ -7,13 +7,11 @@ For example:
 - **"costCenter:finance"**, 
 - **"env":"prod"**. 
 
-In the above example, there are two tags applied to a resource. The first tag, "costCenter:finance" groups the usage by cost center. The second tag, "env":"prod" categorizes the cost by environment, in this case production. 
+In the above example, there are two tags applied to a resource. The first tag, "**costCenter:finance**" groups the usage by cost center. The second tag, "**env":"prod**" categorizes the cost by environment, in this case production. 
 
-You can define as many tags as you want to categorize your Azure resources but you need to define a standard and ensure that the standard is followed by all key stakeholders of your organization.
+You can define as many tags as needed to categorize your Azure resources. However, you will need to define a tagging standard and ensure that the standard is followed by all key stakeholders of your organization.
 
-When you download the usage CSV for services that support tags with billing, the tags appear in the Tags column. 
-
-See the following example below:
+When you download the usage CSV for services that support tags with billing, the tags appear in the Tags column. See the example below:
 
 ![billing](https://github.com/alvarovitta/Cost-Management/blob/master/Images/billing_csv.png)
 
