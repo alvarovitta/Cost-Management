@@ -2,6 +2,13 @@
 Use the information and procedure described in this section to apply Azure tags to your subscription. 
 <br />
 <br />
+Implementing tags to Azure resources are extremely useful when you need to group your billing data. A tag consists of a name and value. For example: **"costCenter:finance"**, **"env":"prod"**. In this example, there are two tags applied to a resource. The first tag, "costCenter:finance" groups the usage by cost center and the second tag, "env":"prod" categorizes the cost by environment, in this case production. You can define as many tags as you want to categorize your Azure resources but you need to define a standard and ensure that the standard is followed by all key stakeholders of your organization.
+
+When you download the usage CSV for services that support tags with billing, the tags appear in the Tags column. 
+
+See the following example below:
+
+![billing](https://github.com/alvarovitta/Cost-Management/blob/master/Images/billing_csv.png)
 
 Apply tags to Azure resources to logically organize them by categories. Each tag consists of a name and a value. Define names and 
 values that make the most sense for organizing your subscription.  
