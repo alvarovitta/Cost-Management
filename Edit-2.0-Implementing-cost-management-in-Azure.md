@@ -4,10 +4,7 @@ Use the information described in this section to implement your cost management 
 <br />
 
 Managing Cloud spend in the Enterprise is becoming increasingly complex. Even with the right policies in place, a single department can increase the cloud spend exponentially with little to no value or no direct intention to do so. In contrast to other infrastructure models, Cloud costs are usage-based. As a result, Public Cloud Providers will ensure that the cloud bill contains the highest degree or level of detail that will justify the amount billed. Cost details could be reflected in reports that could contain millions or even billions of line items. Keep in mind that tracking is happening at the individual resource level which could mean: Virtual Machines, Storage, Network, etc. In addition, these resources are being provisioned across business units and projects throughout the organization. Your cloud cost or financial management could increase its complexity at the same or faster rate than your cloud environment. 
-<br />
-<br />
 
-## Guidance
 Billing is a fundamental pillar in a public cloud environment. Billing is the area that focuses on visualizing the consumption of infrastructure resources in monetary units.  The following picture/table shows the scope of billing and cost management in the context of public cloud: 
 <br />
 <br />
@@ -22,6 +19,10 @@ Billing is a fundamental pillar in a public cloud environment. Billing is the ar
 
 It is important to highlight that Public cloud billing is what will enable you to perform cost management and optimization of your public cloud environment. Billing and cost management are two separate topics of discussion from the cloud management perspective. This section will focus on the Consumption aspects of the public cloud. 
 <br />
+<br />
+
+## Guidance
+Use the following information when considering how to implement your cost management strategy:
 <br />
 
 **Resource Provision versus Consumption**: 
