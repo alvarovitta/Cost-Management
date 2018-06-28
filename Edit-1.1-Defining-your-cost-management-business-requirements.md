@@ -8,7 +8,7 @@ The promise of Publc Cloud is built upon a series of foundational elements such 
 <br />
 
 ## Guidance
-Decisions, Tradeoffs and risk should be approached from a different perspective. The following section will focus on the solving the problem of adopting public cloud from the perspective of cost. With this context in mind, the problem that we are trying to solve is <i>"How to do more with less"</i>. To achieve this objective, collaboration between business and technology stakeholders is fundamental. 
+Decisions, Tradeoffs and risk should be approached from a different perspective. This section will focus on solving the problem of adopting public cloud from the perspective of cost. With this in mind, the problem that we are trying to solve is <i>"How to do more with less"</i>. To achieve this objective, collaboration between business and technology stakeholders is fundamental. 
 
 
 **Recognize the motivation to use Public Cloud**:
