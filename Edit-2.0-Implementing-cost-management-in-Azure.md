@@ -1,39 +1,53 @@
 # Implementing Cost Management in Azure
+Use the information described in this section to implement your cost management strategy.
+<br />
+<br />
 
 Managing Cloud spend in the Enterprise is becoming increasingly complex. Even with the right policies in place, a single department can increase the cloud spend exponentially with little to no value or no direct intention to do so. In contrast to other infrastructure models, Cloud costs are usage-based. As a result, Public Cloud Providers will ensure that the cloud bill contains the highest degree or level of detail that will justify the amount billed. Cost details could be reflected in reports that could contain millions or even billions of line items. Keep in mind that tracking is happening at the individual resource level which could mean: Virtual Machines, Storage, Network, etc. In addition, these resources are being provisioned across business units and projects throughout the organization. Your cloud cost or financial management could increase its complexity at the same or faster rate than your cloud environment. 
+<br />
+<br />
 
-
+## Guidance
 Billing is a fundamental pillar in a public cloud environment. Billing is the area that focuses on visualizing the consumption of infrastructure resources in monetary units.  The following picture/table shows the scope of billing and cost management in the context of public cloud: 
+<br />
+<br />
 
 | __Measurement Objective__ | __Public Cloud Capability__ |__Description__ |
 |------------------------------|----------------------------|----------------------------|
 | Cost Allocation  | Billing  | Snapshot of all the resources used in the Public Cloud | 
 | Performance    | Cost Management | TCO, PNL, Business/Value case of using Public Cloud | 
 | Financial Planning   | Optimization (Forecasting) | Budgeting and Decision making  | 
- 
+<br />
+<br />
 
 It is important to highlight that Public cloud billing is what will enable you to perform cost management and optimization of your public cloud environment. Billing and cost management are two separate topics of discussion from the cloud management perspective. This section will focus on the Consumption aspects of the public cloud. 
+<br />
+<br />
 
+**Resource Provision versus Consumption**: 
+One key consideration to have before we dive into public cloud billing is that there might be situations in which your infrastructure footprint (resource inventory) is different from the total amount of resource that are being consumed in the cloud. An example of this will be excess capacity and/or standby resources. 
 
+In the context of public cloud these resources will be provisioned to your environment but will only show resource consumption until they are actually used. This is a fundamental change in the way you have manage the finances of your on-premise infrastructure. You will be billed for what you use and nothing more. The same will apply to resource that cloud users freeze at any given time. They might show up one month and not the next. Keep that in mind as this volatility sometimes creates confusion. 
+<br />
+<br />
 
-## Resource Provision versus Consumption 
+**Resource Lifecycle**: 
+In contrast to the traditional IT model, Azure resources have a very distinct lifecycle. In Azure, you can reserve, freeze and shutdown resources, same as resource groups and service, at any given time. e.g., you procure and assigned a physical component to a department in your organization and you will charge that department until the physical component is decommissioned (regardless of usage). If two departments use it then you divide the cost and so on. 
 
+In Azure, a department in your organization can start the month deploying 100 resources. During day 2 they will freeze have of them, and finish the month with 10 active resources and other 10 frozen. This is the complexity that comes with the traceability and flexibility of resources in Cloud. No day is the same from the perspective of your Azure resource footprint snapshot. 
+<br />
+<br />
 
-One key consideration to have before we dive into public cloud billing is that there might be situations in which your infrastructure footprint (resource inventory) is different from the total amount of resource that are being consumed in the cloud. An example of this will be excess capacity and/or standby resources. In the context of public cloud these resources will be provisioned to your environment but will only show resource consumption until they are actually used. This is a fundamental change in the way you have manage the finances of your on-premise infrastructure. You will be billed for what you use and nothing more. The same will apply to resource that cloud users freeze at any given time. They might show up one month and not the next. Keep that in mind as this volatility sometimes creates confusion. 
+**Resource availability**: 
+One of the most valuable capabilities in the public cloud, is the ability to scale on demand (some call it infinite computing but that is not a real representation even for the public cloud) any resource at any given time. This is a very valuable capability but without the right policy and governance frameworks, it can get out of hand. 
 
-## Resource Lifecycle 
+Via what is known as "Infrastructure as Code" or "Configuration as Code" you can deployed from hundreds to thousands of servers with a single click. A close relationship between Cloud Operations, IT and the business should exist to make sure that cloud consumption aligns with the organizational business and financial goals 
 
-In contrast to the traditional IT model, Azure resources have a very distinct lifecycle. In Azure, you can reserve, freeze and shutdown resources, same as resource groups and service, at any given time. e.g., you procure and assigned a physical component to a department in your organization and you will charge that department until the physical component is decommissioned (regardless of usage). If two departments use it then you divide the cost and so on. In Azure, a department in your organization can start the month deploying 100 resources. During day 2 they will freeze have of them, and finish the month with 10 active resources and other 10 frozen. This is the complexity that comes with the traceability and flexibility of resources in Cloud. No day is the same from the perspective of your Azure resource footprint snapshot. 
-
-## Resource availability 
-
-One of the most valuable capabilities in the public cloud, is the ability to scale on demand (some call it infinite computing but that is not a real representation even for the public cloud) any resource at any given time. This is a very valuable capability but without the right policy and governance frameworks, it can get out of hand. Via what is known as "Infrastructure as Code" or "Configuration as Code" you can deployed from hundreds to thousands of servers with a single click. A close relationship between Cloud Operations, IT and the business should exist to make sure that cloud consumption aligns with the organizational business and financial goals 
-
-<Navigation>
-  
+See the following:
 - [Implementing Metering and Billing](2.1-Implementing-Metering-and-Billing.md)  
 - [Implementing Showback and Chargeback](2.2-Implementing-Showback-and-Chargeback.md)
 <br />
-  
+<br />
+
 ## Next steps
 [Implementing Metering and Billing](2.1-Implementing-Metering-and-Billing.md)
