@@ -28,4 +28,4 @@ Use the following processes in sequence to design and implement your organizatio
 <br />
 
 ## Next steps
-[Defining your Cost Management Requirements and Strategy](1.0-Defining-your-Cost-Management-Requirements-and-Strategy.md):  
+[Defining your Cost Management Requirements and Strategy](1.0-Defining-your-Cost-Management-Requirements-and-Strategy.md)
